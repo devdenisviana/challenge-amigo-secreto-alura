@@ -21,7 +21,7 @@ Um projeto simples para realizar sorteios de amigo secreto, permitindo adicionar
 
 ## 🎥 Demonstração em Vídeo
 
-[![Vídeo do projeto](https://img.youtube.com/vi/SEU_VIDEO_ID/maxresdefault.jpg)]([https://www.youtube.com/watch?v=SEU_VIDEO_ID](https://youtu.be/i2uFgVRYl9I))
+https://youtu.be/i2uFgVRYl9I
 
 ## 🛠️ Tecnologias Utilizadas
 
