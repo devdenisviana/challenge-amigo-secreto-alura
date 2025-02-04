@@ -14,10 +14,10 @@ Um projeto simples para realizar sorteios de amigo secreto, permitindo adicionar
 ## 📷 Capturas de Tela
 
 ### Adicionando nomes
-![Adicionando nomes](assets/screenshot1.png)
+![Adicionando nomes](assets/1.png)
 
 ### Sorteando um amigo secreto
-![Sorteio do amigo secreto](assets/screenshot2.png)
+![Sorteio do amigo secreto](assets/2.png)
 
 ## 🎥 Demonstração em Vídeo
 
