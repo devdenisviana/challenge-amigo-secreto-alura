@@ -33,4 +33,4 @@ https://youtu.be/i2uFgVRYl9I
 
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone [https://github.com/seu-usuario/amigo-secreto.git](https://github.com/devdenisviana/challenge-amigo-secreto-alura.git)
